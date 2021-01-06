@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_header_height">192dp</dimen>
+    <dimen name="questioin_text_size">30sp</dimen>
+    <dimen name="game_over_height">350dp</dimen>
+</resources>
